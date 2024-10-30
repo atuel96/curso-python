@@ -17,15 +17,20 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 ### Python
 
-#### Clase 1
-* [Sintaxis Básica](notebooks/00-sintaxis-basica-y-variables.ipynb)
+#### Clase 0 (Primera Clase)
+* [Sintaxis Básica](notebooks/00-sintaxis-basica-y-variables.ipynb) 
 
-**Ejercicios**: [Ejercicios Clase 1](ejercicios/semana-00)
+**Ejercicios**: [Ejercicios Semana 0)](ejercicios/semana-00)
 
-#### Clase 2
-* [Funciones](notebooks/01-funciones.ipynb)
+#### Clase 1 (Segunda Clase)
+* [Funciones](notebooks/01-funciones.ipynb) 
 * [Metodos de cadenas](notebooks/02-metodos-de-cadenas.ipynb)
-* [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
+
+**Ejercicios**: [Ejercicios Semana 1](ejercicios/semana-01/ejercicios-semana-01.ipynb)
+
+#### Clase 3 
+
+* Clase futura
 
 
 ## Links Útiles
