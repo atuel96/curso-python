@@ -32,6 +32,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 * [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
 * [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
+* [Bucles](notebooks/05-bucles.ipynb)
 
 
 ## Links Útiles
