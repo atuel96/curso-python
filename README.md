@@ -31,7 +31,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Clase 3 
 
 * [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
-* [Estructuras de Datos (En proceso...)]
+* [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
 
 
 ## Links Útiles
