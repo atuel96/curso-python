@@ -34,6 +34,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
 * [Bucles](notebooks/05-bucles.ipynb)
 
+**Ejercicios**: [Ejercicios Semana 2](ejercicios/semana-02/ejercicios-semana-02.ipynb)
 
 ## Links Útiles
 
