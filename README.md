@@ -20,7 +20,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Clase 0 (Primera Clase)
 * [Sintaxis Básica](notebooks/00-sintaxis-basica-y-variables.ipynb) 
 
-**Ejercicios**: [Ejercicios Semana 0)](ejercicios/semana-00)
+**Ejercicios**: [Ejercicios Semana 0](ejercicios/semana-00)
 
 #### Clase 1 (Segunda Clase)
 * [Funciones](notebooks/01-funciones.ipynb) 
