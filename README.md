@@ -34,7 +34,14 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
 * [Bucles](notebooks/05-bucles.ipynb)
 
-**Ejercicios**: [Ejercicios Semana 2](ejercicios/semana-02/ejercicios-semana-02.ipynb)
+**Ejercicios**: [Ejercicios Semana 2](ejercicios/semana-02/ejercicios-semana-02.ipynb) ([Soluciones](ejercicios/semana-02/ejercicios-semana-02-soluciones.ipynb))
+
+#### Clase 3 (Cuarta Clase)
+
+* [Importar Librerias](notebooks/06-importar-librerias.ipynb)
+* [Leer y Escribir Archivos](notebooks/07-leer-y-escribir-archivos.ipynb)
+
+**Ejercicios**: [Ejercicios Semana 3](ejercicios/semana-03/ejercicios-semana-03.ipynb)
 
 ## Links Útiles
 
