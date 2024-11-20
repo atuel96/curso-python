@@ -43,6 +43,17 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 **Ejercicios**: [Ejercicios Semana 3](ejercicios/semana-03/ejercicios-semana-03.ipynb)
 
+#### Clase 4 (Quinta Clase)
+
+* [Clases](notebooks/08-clases.ipynb)
+
+**Ejercicios**: [Ejercicios Semana 4](ejercicios/semana-04/ejercicios-semana-04.ipynb)
+
+
+#### Extras
+
+* [Ejemplo API](notebooks/ejemplo_API.ipynb)
+
 ## Links Útiles
 
 * [Visual Studio Code](https://code.visualstudio.com/)
