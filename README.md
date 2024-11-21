@@ -41,7 +41,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Importar Librerias](notebooks/06-importar-librerias.ipynb)
 * [Leer y Escribir Archivos](notebooks/07-leer-y-escribir-archivos.ipynb)
 
-**Ejercicios**: [Ejercicios Semana 3](ejercicios/semana-03/ejercicios-semana-03.ipynb)
+**Ejercicios**: [Ejercicios Semana 3](ejercicios/semana-03/ejercicios-semana-03.ipynb) ([Soluciones](ejercicios/semana-03/ejercicios-semana-03-soluciones.ipynb))
 
 #### Clase 4 (Quinta Clase)
 
