@@ -49,10 +49,14 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 **Ejercicios**: [Ejercicios Semana 4](ejercicios/semana-04/ejercicios-semana-04.ipynb)
 
+#### Clase 5 (Sexta Clase)
+
+* [Scripts](scripts\PysimpleGUI)
 
 #### Extras
 
 * [Ejemplo API](notebooks/ejemplo_API.ipynb)
+
 
 ## Links Útiles
 
