@@ -51,7 +51,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 #### Clase 5 (Sexta Clase)
 
-* [Scripts](scripts\PysimpleGUI)
+* [Scripts PySimpleGUI](scripts/PysimpleGUI)
 
 #### Extras
 
