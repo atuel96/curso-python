@@ -51,11 +51,19 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 #### Clase 5 (Sexta Clase)
 
+* [Instalar PySimpleGUI](markdown/01-instalar-PySimpleGUI.md)
 * [Scripts PySimpleGUI](scripts/PysimpleGUI)
 
 #### Extras
 
 * [Ejemplo API](notebooks/ejemplo_API.ipynb)
+
+#### Trabajo Final
+
+Para terminar el curso van a tener que entregar un pequeño trabajo final de forma individual o grupal (entre 2 personas).
+Aquí hay algunas ideas sobre que pueden hacer, pero si tienen otra cosa en mente también lo pueden hacer.
+
+* [Ideas Trabajo Final](markdown/02-trabajo-final-ejemplos.md)
 
 
 ## Links Útiles
