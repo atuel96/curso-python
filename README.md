@@ -1,4 +1,4 @@
-# Curso Python 2024
+# Curso Python 2025
 
 Este repositorio está dedicado a organizar el contenido del curso de introducción a la programación con Python dictado en 2024.
 
@@ -20,59 +20,16 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Clase 0 (Primera Clase)
 * [Sintaxis Básica](notebooks/00-sintaxis-basica-y-variables.ipynb) 
 
-**Ejercicios**: [Ejercicios Semana 0](ejercicios/semana-00)
-
-#### Clase 1 (Segunda Clase)
-* [Funciones](notebooks/01-funciones.ipynb) 
-* [Metodos de cadenas](notebooks/02-metodos-de-cadenas.ipynb)
-
-**Ejercicios**: [Ejercicios Semana 1](ejercicios/semana-01/ejercicios-semana-01.ipynb) ([Soluciones](ejercicios/semana-01/ejercicios-semana-01-soluciones.ipynb))
-
-#### Clase 2 (Tercera Clase)
-
-* [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
-* [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
-* [Bucles](notebooks/05-bucles.ipynb)
-
-**Ejercicios**: [Ejercicios Semana 2](ejercicios/semana-02/ejercicios-semana-02.ipynb) ([Soluciones](ejercicios/semana-02/ejercicios-semana-02-soluciones.ipynb))
-
-#### Clase 3 (Cuarta Clase)
-
-* [Importar Librerias](notebooks/06-importar-librerias.ipynb)
-* [Leer y Escribir Archivos](notebooks/07-leer-y-escribir-archivos.ipynb)
-
-**Ejercicios**: [Ejercicios Semana 3](ejercicios/semana-03/ejercicios-semana-03.ipynb) ([Soluciones](ejercicios/semana-03/ejercicios-semana-03-soluciones.ipynb))
-
-#### Clase 4 (Quinta Clase)
-
-* [Clases](notebooks/08-clases.ipynb)
-
-**Ejercicios**: [Ejercicios Semana 4](ejercicios/semana-04/ejercicios-semana-04.ipynb)
-
-#### Clase 5 (Sexta Clase)
-
-* [Instalar PySimpleGUI](markdown/01-instalar-PySimpleGUI.md)
-* [Scripts PySimpleGUI](scripts/PysimpleGUI)
-
-#### Extras
-
-* [Ejemplo API](notebooks/ejemplo_API.ipynb)
-
-#### Trabajo Final
-
-Para terminar el curso van a tener que entregar un pequeño trabajo final de forma individual o grupal (entre 2 personas).
-Aquí hay algunas ideas sobre que pueden hacer, pero si tienen otra cosa en mente también lo pueden hacer.
-
-* [Ideas Trabajo Final](markdown/02-trabajo-final-ejemplos.md)
+**Ejercicios**: [Ejercicios Semana 0](ejercicios/semana-00/ejercicios-semana-00.ipynb)
 
 
 ## Links Útiles
 
-* [Visual Studio Code](https://code.visualstudio.com/)
 * [Anaconda](https://www.anaconda.com/)
 * [Tutorial Oficial de Python (Español)](https://python-docs-es.readthedocs.io/es/3.12/tutorial/index.html)
 * [Tutorial Oficial de python (Inglés)](https://docs.python.org/3/tutorial/index.html)
 * [Página de Matplotlib](https://matplotlib.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 ## Material Recomendado
 
 
