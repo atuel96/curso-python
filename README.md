@@ -9,6 +9,10 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Videos
 
 * [Video Instalación Anaconda](https://youtu.be/BE-vKz91Rlw)
+* [Ejecutar un archivo de Python desde la Consola](https://youtu.be/1OkD9MuMHiE)
+* [Ejecutar archivos de Python usando Spyder](https://youtu.be/D2L2ZFH8aEg)
+* [Ejecutar Notebooks de Python usando Juypter o Google Colab](https://youtu.be/ahwhbkBFa10)
+
 ## Contenido
 
 ### Terminal
