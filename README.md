@@ -1,6 +1,6 @@
 # Curso Python 2025
 
-Este repositorio está dedicado a organizar el contenido del curso de introducción a la programación con Python dictado en 2024.
+Este repositorio está dedicado a organizar el contenido del curso de introducción a la programación con Python dictado en 2025.
 
 ## Instalación Python
 
