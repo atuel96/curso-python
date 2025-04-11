@@ -26,6 +26,9 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Sintaxis Básica](notebooks/00-sintaxis-basica-y-variables.ipynb) 
 
 
+
+* Ejercicios: [[Semana 00]](ejercicios/semana-00/ejercicios-semana-00.ipynb)
+
 ## Links Útiles
 
 * [Anaconda](https://www.anaconda.com/)
