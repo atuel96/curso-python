@@ -27,7 +27,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 * Ejercicios: [[Semana 00]](ejercicios/semana-00/ejercicios-semana-00.ipynb)
 
-#### Clase 0 (Segunda Clase)
+#### Clase 1 (Segunda Clase)
 * [Funciones](notebooks/01-funciones.ipynb) 
 * [Métodos de Cadenas](notebooks/02-metodos-de-cadenas.ipynb) 
 
