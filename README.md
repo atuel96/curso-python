@@ -37,6 +37,8 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Control de Flujo](notebooks/03-control-de-flujo.ipynb) 
 * [Estructuras de Datos 1: Listas](notebooks/04-listas.ipynb) 
 
+* Ejercicios: [[Semana 2]](ejercicios/semana-02/ejercicios-semana-02.ipynb)
+
 ## Links Útiles
 
 * [Anaconda](https://www.anaconda.com/)
