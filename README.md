@@ -35,9 +35,16 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 #### Clase 2 (Tercera Clase)
 * [Control de Flujo](notebooks/03-control-de-flujo.ipynb) 
-* [Estructuras de Datos 1: Listas](notebooks/04-listas.ipynb) 
+* [Estructuras de Datos 1: Listas](notebooks/04-estructuras-de-datos-1.ipynb) 
 
 * Ejercicios: [[Semana 2]](ejercicios/semana-02/ejercicios-semana-02.ipynb)
+
+
+#### Clase 3 (Cuarta Clase)
+* [Estructuras de Datos 2: Diccionarios](notebooks/05-estructuras-de-datos-2.ipynb) 
+* [Bucles](notebooks/06-bucles.ipynb) 
+
+* Ejercicios: [[Semana 3]](ejercicios/semana-03/ejercicios-semana-03.ipynb)
 
 ## Links Útiles
 
