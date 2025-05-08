@@ -50,6 +50,8 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Importar Liberias](notebooks/07-importar-librerias.ipynb) 
 * [Leer y Escribir Archivos (parte 1)](notebooks/08-leer-y-escribir-archivos.ipynb) 
 
+* Ejercicios: [[Semana 4]](ejercicios/semana-04/ejercicios-semana-04.ipynb)
+
 ## Links Útiles
 
 * [Anaconda](https://www.anaconda.com/)
