@@ -52,6 +52,10 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 * Ejercicios: [[Semana 4]](ejercicios/semana-04/ejercicios-semana-04.ipynb)
 
+#### Clase 5 (Sexta Clase)
+* [Leer y Escribir Archivos (parte 2)](notebooks/08-leer-y-escribir-archivos.ipynb) 
+* [Ejemplo API](notebooks/ejemplo_API.ipynb)
+
 ## Links Útiles
 
 * [Anaconda](https://www.anaconda.com/)
