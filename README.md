@@ -56,6 +56,12 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Leer y Escribir Archivos (parte 2)](notebooks/08-leer-y-escribir-archivos.ipynb) 
 * [Ejemplo API](notebooks/ejemplo_API.ipynb)
 
+
+#### Clase 6 (Séptima Clase)
+* [Clases](notebooks/09-clases.ipynb) 
+* [Extras](notebooks/10-extras.ipynb)
+* [Ideas Proyecto Final](markdown/02-trabajo-final-ejemplos.md)
+
 ## Links Útiles
 
 * [Anaconda](https://www.anaconda.com/)
