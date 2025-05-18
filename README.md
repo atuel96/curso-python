@@ -60,7 +60,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Clase 6 (Séptima Clase)
 * [Clases](notebooks/09-clases.ipynb) 
 * [Extras](notebooks/10-extras.ipynb)
-* [Ideas Proyecto Final](markdown/02-trabajo-final-ejemplos.md)
+* [Ideas Proyecto Final](markdown/01-trabajo-final-ejemplos.md)
 
 ## Links Útiles
 
