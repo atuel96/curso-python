@@ -61,6 +61,9 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Clases](notebooks/09-clases.ipynb) 
 * [Extras](notebooks/10-extras.ipynb)
 * [Ideas Proyecto Final](markdown/01-trabajo-final-ejemplos.md)
+* Ejemplo 1: [50, 30, 20](ejemplos/50_30_20.py)
+* Ejemplo 2: [Encriptar mensaje](ejemplos/encriptar_codigo.py)
+
 
 ## Links Útiles
 
